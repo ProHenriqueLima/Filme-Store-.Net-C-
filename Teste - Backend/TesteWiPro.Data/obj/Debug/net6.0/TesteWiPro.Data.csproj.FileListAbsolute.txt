@@ -1,0 +1,17 @@
+C:\Users\prohe\Documents\Projetos Pessoais\.Net\Teste WiPro\TesteWiPro.Data\bin\Debug\net6.0\TesteWiPro.Data.deps.json
+C:\Users\prohe\Documents\Projetos Pessoais\.Net\Teste WiPro\TesteWiPro.Data\bin\Debug\net6.0\TesteWiPro.Data.runtimeconfig.json
+C:\Users\prohe\Documents\Projetos Pessoais\.Net\Teste WiPro\TesteWiPro.Data\bin\Debug\net6.0\TesteWiPro.Data.dll
+C:\Users\prohe\Documents\Projetos Pessoais\.Net\Teste WiPro\TesteWiPro.Data\bin\Debug\net6.0\TesteWiPro.Data.pdb
+C:\Users\prohe\Documents\Projetos Pessoais\.Net\Teste WiPro\TesteWiPro.Data\bin\Debug\net6.0\TesteWiPro.Business.dll
+C:\Users\prohe\Documents\Projetos Pessoais\.Net\Teste WiPro\TesteWiPro.Data\bin\Debug\net6.0\TesteWiPro.Business.pdb
+C:\Users\prohe\Documents\Projetos Pessoais\.Net\Teste WiPro\TesteWiPro.Data\obj\Debug\net6.0\TesteWiPro.Data.csproj.AssemblyReference.cache
+C:\Users\prohe\Documents\Projetos Pessoais\.Net\Teste WiPro\TesteWiPro.Data\obj\Debug\net6.0\TesteWiPro.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prohe\Documents\Projetos Pessoais\.Net\Teste WiPro\TesteWiPro.Data\obj\Debug\net6.0\TesteWiPro.Data.AssemblyInfoInputs.cache
+C:\Users\prohe\Documents\Projetos Pessoais\.Net\Teste WiPro\TesteWiPro.Data\obj\Debug\net6.0\TesteWiPro.Data.AssemblyInfo.cs
+C:\Users\prohe\Documents\Projetos Pessoais\.Net\Teste WiPro\TesteWiPro.Data\obj\Debug\net6.0\TesteWiPro.Data.csproj.CoreCompileInputs.cache
+C:\Users\prohe\Documents\Projetos Pessoais\.Net\Teste WiPro\TesteWiPro.Data\obj\Debug\net6.0\TesteWiPro.Data.csproj.CopyComplete
+C:\Users\prohe\Documents\Projetos Pessoais\.Net\Teste WiPro\TesteWiPro.Data\obj\Debug\net6.0\TesteWiPro.Data.dll
+C:\Users\prohe\Documents\Projetos Pessoais\.Net\Teste WiPro\TesteWiPro.Data\obj\Debug\net6.0\refint\TesteWiPro.Data.dll
+C:\Users\prohe\Documents\Projetos Pessoais\.Net\Teste WiPro\TesteWiPro.Data\obj\Debug\net6.0\TesteWiPro.Data.pdb
+C:\Users\prohe\Documents\Projetos Pessoais\.Net\Teste WiPro\TesteWiPro.Data\obj\Debug\net6.0\TesteWiPro.Data.genruntimeconfig.cache
+C:\Users\prohe\Documents\Projetos Pessoais\.Net\Teste WiPro\TesteWiPro.Data\obj\Debug\net6.0\ref\TesteWiPro.Data.dll

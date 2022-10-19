@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="AutoMapper" Version="10.1.1" />
+		<PackageReference Include="FluentValidation" Version="9.5.3" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.AutoHistory" Version="3.1.1" />
+		<PackageReference Include="Microsoft.Extensions.Identity.Stores" Version="3.1.14" />
+		<PackageReference Include="Microsoft.Extensions.Localization.Abstractions" Version="3.1.0" />
+		<PackageReference Include="System.Linq.Dynamic.Core" Version="1.2.18" />
+		<PackageReference Include="X.PagedList" Version="8.1.0" />
+	</ItemGroup>
+	
+</Project>

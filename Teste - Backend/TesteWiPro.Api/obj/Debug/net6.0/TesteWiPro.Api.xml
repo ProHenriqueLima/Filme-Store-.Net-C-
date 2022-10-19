@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TesteWiPro.Api</name>
+    </assembly>
+    <members>
+        <member name="M:TesteWiPro.Api.Controllers.AluguelController.GetAll">
+            <summary>
+            Método utilizado para consultar todos os Alugueis (Ativos e Desativos)
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:TesteWiPro.Api.Controllers.AluguelController.AddAluguel(TesteWiPro.Api.ViewModels.Cliente.RequestAluguelVM)">
+            <summary>
+            Método utilizado para fazer o aluguel de um Filme
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:TesteWiPro.Api.Controllers.AluguelController.DevolverFilme(System.Int64)">
+            <summary>
+            Método utilizado para devolver um filme
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:TesteWiPro.Api.Controllers.ClienteController.GetAll">
+            <summary>
+            Método utilizado para consultar todos os Clientes (Ativos e Desativos)
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:TesteWiPro.Api.Controllers.ClienteController.GetClientesAtivos">
+            <summary>
+            Método utilizado para consultar os Clientes Ativos
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:TesteWiPro.Api.Controllers.ClienteController.GetClientesDesativos">
+            <summary>
+            Método utilizado para consultar os Clientes Desativos
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:TesteWiPro.Api.Controllers.ClienteController.AddClientes(TesteWiPro.Api.ViewModels.Cliente.RequestClienteVM)">
+            <summary>
+            Método utilizado para Adicionar um Cliente
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:TesteWiPro.Api.Controllers.ClienteController.ModifiedStatusCliente(System.Int64)">
+            <summary>
+            Método utilizado para Desativar ou Ativar um Cliente
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:TesteWiPro.Api.Controllers.FilmeController.GetAll">
+            <summary>
+            Método utilizado para consultar todos os Filmes (Ativos e Desativos)
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:TesteWiPro.Api.Controllers.FilmeController.GetFilmesAtivos">
+            <summary>
+            Método utilizado para consultar os Filmes Ativos
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:TesteWiPro.Api.Controllers.FilmeController.GetFilmesDesativos">
+            <summary>
+            Método utilizado para consultar os Filmes Desativos
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:TesteWiPro.Api.Controllers.FilmeController.AddFilmes(TesteWiPro.Api.ViewModels.Filme.RequestFilmeVM)">
+            <summary>
+            Método utilizado para Adicionar um Filme
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:TesteWiPro.Api.Controllers.FilmeController.ModifiedStatusFilme(System.Int64)">
+            <summary>
+            Método utilizado para Desativar ou Ativar um Filme
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

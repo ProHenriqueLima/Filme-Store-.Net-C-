@@ -1,0 +1,12 @@
+C:\Users\prohe\Documents\Projetos Pessoais\.Net\Teste WiPro\TesteWiPro.Business\bin\Debug\net6.0\TesteWiPro.Business.deps.json
+C:\Users\prohe\Documents\Projetos Pessoais\.Net\Teste WiPro\TesteWiPro.Business\bin\Debug\net6.0\TesteWiPro.Business.dll
+C:\Users\prohe\Documents\Projetos Pessoais\.Net\Teste WiPro\TesteWiPro.Business\bin\Debug\net6.0\TesteWiPro.Business.pdb
+C:\Users\prohe\Documents\Projetos Pessoais\.Net\Teste WiPro\TesteWiPro.Business\obj\Debug\net6.0\TesteWiPro.Business.csproj.AssemblyReference.cache
+C:\Users\prohe\Documents\Projetos Pessoais\.Net\Teste WiPro\TesteWiPro.Business\obj\Debug\net6.0\TesteWiPro.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prohe\Documents\Projetos Pessoais\.Net\Teste WiPro\TesteWiPro.Business\obj\Debug\net6.0\TesteWiPro.Business.AssemblyInfoInputs.cache
+C:\Users\prohe\Documents\Projetos Pessoais\.Net\Teste WiPro\TesteWiPro.Business\obj\Debug\net6.0\TesteWiPro.Business.AssemblyInfo.cs
+C:\Users\prohe\Documents\Projetos Pessoais\.Net\Teste WiPro\TesteWiPro.Business\obj\Debug\net6.0\TesteWiPro.Business.csproj.CoreCompileInputs.cache
+C:\Users\prohe\Documents\Projetos Pessoais\.Net\Teste WiPro\TesteWiPro.Business\obj\Debug\net6.0\TesteWiPro.Business.dll
+C:\Users\prohe\Documents\Projetos Pessoais\.Net\Teste WiPro\TesteWiPro.Business\obj\Debug\net6.0\refint\TesteWiPro.Business.dll
+C:\Users\prohe\Documents\Projetos Pessoais\.Net\Teste WiPro\TesteWiPro.Business\obj\Debug\net6.0\TesteWiPro.Business.pdb
+C:\Users\prohe\Documents\Projetos Pessoais\.Net\Teste WiPro\TesteWiPro.Business\obj\Debug\net6.0\ref\TesteWiPro.Business.dll
